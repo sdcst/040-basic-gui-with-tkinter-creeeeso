@@ -4,9 +4,6 @@ from tkinter import ttk
 
 window = tk.Tk()
 window.title("T-Town Veterinary Clinic Database")
-
-window = tk.Tk()
-window.title("Example")
 window.geometry("298x138")
 
 label1 = tk.Label(window, text = "Pochacco!")
